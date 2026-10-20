@@ -1,0 +1,16 @@
+ACEITUNA CONGELADA 🫒
+====================
+
+El juego incluye:
+- index.html: juego completo
+- personaje.webp: la mascota (de la imagen que enviaste)
+
+PARA JUGAR
+1. Guarda y descomprime el ZIP.
+2. Para jugar de forma fiable en iPhone, publica ambos archivos en GitHub Pages (index.html y personaje.webp juntos).
+3. Abre la direccion HTTPS de GitHub Pages en Safari.
+4. Desliza el dedo para mover el pote de vidrio.
+
+Los récords, partidas y aceitunas se guardan en ese navegador/dispositivo. Si borras los datos de Safari se borrarán también las estadísticas.
+
+Si el iPhone muestra el HTML solo como una vista previa en Archivos, no es un fallo del juego: usa el enlace publicado con GitHub Pages.
